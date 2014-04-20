@@ -2,7 +2,7 @@ CookHotPocket2.0
 ================
 
 Hack for microwave remote controller
-
+```C
 #define CLEAR 6
 #define ADDTIME 5
 
@@ -47,3 +47,4 @@ void loop() {
     }
   }
 }
+```
